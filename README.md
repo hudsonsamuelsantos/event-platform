@@ -1,1 +1,3 @@
-# event-platform
+# Plataforma de Eventos Ignite Lab
+
+Projeto em desenvolvimento...
