@@ -13,3 +13,4 @@ Plataforma para cadastro e participação em eventos online.
 - Typescript
 - React
 - GraphQL
+- Vercel
